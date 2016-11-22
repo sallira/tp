@@ -1,0 +1,26 @@
+<div class="main">
+<div class="gradient">
+<div class="wrapper">
+<div class="slogan">
+<h1><img alt="" src="/documents/12421/0/touroonelogo2.png/31a81c00-f6f8-47c2-91e2-98457a577ac6?t=1479565151504" /></h1>
+</div>
+<!-- Maintenance Message will starts --><!-- <div class="warning">Due to scheduled maintenance, TouchNet will not be available for 4 hours starting at 1 am EST on November 16 | 10 pm PST on November 15.
+</div> --><!-- Maintenance Message will ends -->
+
+<div class="login">
+<div class="login-wrap">
+<h3>Log in with your credentials below:</h3>
+
+<form action="https://touroone.touro.edu/sso/login;jsessionid=3CE5FC55BD97E27F6D63EA755673323D" class="fm-v clearfix" id="fm1" method="post"><!-- Congratulations on bringing CAS online!  The default authentication handler authenticates where usernames equal passwords: go ahead, try it out.  -->
+<div><input accesskey="n" autocomplete="false" class="required autoclear name-login" id="username" name="username" placeholder="Username" size="25" tabindex="1" type="text" value="" /></div>
+
+<div><input accesskey="p" autocomplete="false" class="required password-login" id="password" name="password" placeholder="Password" size="25" tabindex="2" type="password" value="" /></div>
+
+<div><input name="lt" type="hidden" value="LT-202632-3bc7knxpq44GaHYLn5SlLn4ihan0Nb" /> <input name="execution" type="hidden" value="e1s1" /> <input name="_eventId" type="hidden" value="submit" /> <input accesskey="l" class="button-login" name="submit" tabindex="4" type="submit" value="LOGIN" /> <label>Best viewed with Chrome, Firefox or Internet Explorer<br />
+<a href="https://touroone.touro.edu/sso/Acceptable%20Use%20Policy.pdf">By signing onto this portal, you agree to abide by its Terms of Use</a></label></div>
+</form>
+<!-- form --></div>
+</div>
+</div>
+</div>
+</div>

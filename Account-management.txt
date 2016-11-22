@@ -1,0 +1,69 @@
+<div class="account">
+<div class="wrapper">
+<div class="title">
+<h3>Account Management</h3>
+</div>
+
+<div class="row-fluid">
+<div class="span3 featu">
+<div class="icon"><a href="https://idm.touro.edu/openidmui/index.html#validateAccount/"><img alt="" class="ft1" src="/documents/12421/0/user.png/176068a0-af2a-47ab-81de-b553d3e32e79?t=1479565873212" /> </a></div>
+
+<h6>First Time User</h6>
+
+<p>Please claim your account here.</p>
+
+<div class="step">
+<p><a href="http://localhost:8080/web/touroone/icon-register">Click here</a></p>
+</div>
+</div>
+
+<div class="span3 featu">
+<div class="icon"><a href="https://idm.touro.edu/openidmui/index.html#accountRevalidate/"><img alt="" class="ft1" src="/documents/12421/0/validate.png/47b1c625-4f5e-482a-b8f4-806ceea8b210?t=1479565912541" /> </a></div>
+
+<h6>Revalidate</h6>
+
+<p>Don't know your username and password?</p>
+
+<div class="step">
+<p><a href="http://localhost:8080/web/touroone/icon-register">Click here</a></p>
+</div>
+</div>
+
+<div class="span3 featu">
+<div class="icon"><a href="https://idm.touro.edu/openidmui/index.html#profile/forgotten_userId/"><img alt="" class="ft1" src="/documents/12421/0/user.png/176068a0-af2a-47ab-81de-b553d3e32e79?t=1479565873212" style="width: 72px; height: 72px;" /> </a></div>
+
+<h6>Forgot Username</h6>
+
+<p>Please have your ID number ready.</p>
+
+<div class="step">
+<p><a href="http://localhost:8080/web/touroone/icon-register">Click here</a></p>
+</div>
+</div>
+
+<div class="span3 featu">
+<div class="icon"><a href="https://idm.touro.edu/openidmui/index.html#profile/forgottenPassword/"><img alt="" class="ft1" src="/documents/12421/0/password.png/471e17ae-1f38-4e4f-926e-dde270f7e312?t=1479565942287" /> </a></div>
+
+<h6>Forgot Password</h6>
+
+<p>Please have your username ready.</p>
+
+<div class="step">
+<p><a href="http://localhost:8080/web/touroone/icon-register">Click here</a></p>
+</div>
+</div>
+
+<div class="span3 featu">
+<div class="icon"><a href="https://idm.touro.edu/openidmui/index.html#login/"><img alt="" class="ft1" src="/documents/12421/0/settings.png/387c37df-6809-489e-ab17-542c0953f33a?t=1479566023215" /> </a></div>
+
+<h6>Manage Account</h6>
+
+<p>Edit your personal information.</p>
+
+<div class="step">
+<p><a href="http://localhost:8080/web/touroone/icon-register">Click here</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
